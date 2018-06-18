@@ -1,0 +1,35 @@
+body{
+    font-family: sans-serif;
+    color: black;
+    font-size: 16px;
+    background-image: url(images/html-color-codes-color-tutorials-hero-00e10b1f.jpg);
+    background-size:cover;
+    background-size: cover;
+    width:50%;
+    margin: auto;
+   
+}
+
+hl {
+    background-color: #b3ecec;
+    border-bottom: solid 3px black;
+}
+.malzemeler{
+    color: red;
+    
+}
+.baslik {
+    color: blue;
+}
+p {
+    text-align: center;
+}
+
+#yazi{
+    font-family: verdana;
+    font-size: 18px;
+    color: green;
+}
+{
+    
+}
